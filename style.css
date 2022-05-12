@@ -22,10 +22,15 @@ a {
     font-family: "Inter";
     font-size: 14px;
     font-weight: 500;
-   
-    color: red;
+    color: orange;
+    text-decoration: none;
+    
 }
 
 ul {
     list-style: none;
+}
+
+a:hover {
+    opacity: 0.5;
 }
